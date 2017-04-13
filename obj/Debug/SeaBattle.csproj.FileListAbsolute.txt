@@ -1,0 +1,6 @@
+C:\MyCodes\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\MyCodes\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\MyCodes\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\MyCodes\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csprojResolveAssemblyReference.cache
+C:\MyCodes\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\MyCodes\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
